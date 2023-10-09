@@ -3,7 +3,7 @@
   <h2 align="center">Open shortcuts (Chrome Extension)</h2>
 
   <p align="center">
-    Chrome extension made for open bookmarks easily.
+    Chrome extension made for open bookmarks easily
     <br/>
     <br/>
   </p>
