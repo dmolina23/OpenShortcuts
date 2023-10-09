@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://freeiconshop.com/wp-content/uploads/edd/search-var-flat.png" />
-</p>
-<br/>
-<p align="center">
 
   <h2 align="center">Open shortcuts (Chrome Extension)</h2>
 
@@ -14,10 +10,10 @@
   
 
 <p align=center>
-  <img src="https://img.shields.io/github/downloads/Dmolina23//total" />
-  <img src="https://img.shields.io/github/contributors/Dmolina23/BookmarkSearch?color=dark-green" />
-  <img src="https://img.shields.io/github/issues/Dmolina23/BookmarkSearch" />
-  <img src="https://img.shields.io/github/license/Dmolina23/BookmarkSearch" />
+  <img src="https://img.shields.io/github/downloads/Dmolina23/OpenShortcuts/total" />
+  <img src="https://img.shields.io/github/contributors/Dmolina23/OpenShortcuts?color=dark-green" />
+  <img src="https://img.shields.io/github/issues/Dmolina23/OpenShortcuts" />
+  <img src="https://img.shields.io/github/license/Dmolina23/OpenShortcuts" />
 </p>
 
 ## Getting Started
@@ -32,7 +28,7 @@ This Chrome Extension has no pre-requisites
 1. Download the code as .zip or clone the repo
 
 ```sh
-git clone https://github.com/Dmolina/BookmarkSearch.git
+git clone https://github.com/Dmolina/OpenShortcuts.git
 ```
 
 2. Open Chrome Extensions and enable Developer Mode (URL: `chrome://extensions`)
@@ -43,4 +39,4 @@ git clone https://github.com/Dmolina/BookmarkSearch.git
 
 ## Usage
 
-Write <b>"ma"</b>, tap `Tab` and search for any bookmark you have by its title.
+Open any tab in chrome and type <b>"Alt+Shift+[1,...]"</b> and let chrome open the bookmark in a new tab.
