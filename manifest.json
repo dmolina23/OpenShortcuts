@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "OpenShortcuts",
+    "description": "Open bookmarks using keyboard shortcuts.",
+    "version": "1.0",
+    "background": {
+        "service_worker": "service_worker.js"
+    },
+    "permissions": ["bookmarks"],
+    "commands": {
+        "openBookmark0": {
+            "suggested_key": "Alt+Shift+1",
+            "description": "Open bookmark 1"
+        },
+        "openBookmark1": {
+            "suggested_key": "Alt+Shift+2",
+            "description": "Open bookmark 2"
+        },
+        "openBookmark2": {
+            "suggested_key": "Alt+Shift+3",
+            "description": "Open bookmark 3"
+        },
+        "openBookmark3": {
+            "suggested_key": "Alt+Shift+4",
+            "description": "Open bookmark 4"
+        }
+    }
+}
